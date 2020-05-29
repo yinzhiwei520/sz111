@@ -63,8 +63,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="692" />
-    <option name="y" value="2" />
+    <option name="x" value="42" />
+    <option name="y" value="12" />
     <option name="width" value="1245" />
     <option name="height" value="1030" />
   </component>
