@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -160,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590688155989</updated>
       <workItem from="1590688159511" duration="606000" />
-      <workItem from="1590753564375" duration="577000" />
+      <workItem from="1590753564375" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="测试1">
       <created>1590688256220</created>
@@ -176,11 +176,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590753635474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试4">
+      <created>1590754187113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590754187113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1183000" />
+    <option name="totallyTimeSpent" value="1449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="554" y="2" width="996" height="824" extended-state="0" />
@@ -222,14 +229,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试1" />
     <MESSAGE value="测试3" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试3" />
+    <MESSAGE value="测试4" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
